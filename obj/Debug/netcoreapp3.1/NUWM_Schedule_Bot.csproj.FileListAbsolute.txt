@@ -1,0 +1,17 @@
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\bin\Debug\netcoreapp3.1\NUWM_Schedule_Bot.exe
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\obj\Debug\netcoreapp3.1\NUWM_Schedule_Bot.csprojAssemblyReference.cache
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\obj\Debug\netcoreapp3.1\NUWM_Schedule_Bot.AssemblyInfoInputs.cache
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\obj\Debug\netcoreapp3.1\NUWM_Schedule_Bot.AssemblyInfo.cs
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\obj\Debug\netcoreapp3.1\NUWM_Schedule_Bot.csproj.CopyComplete
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\bin\Debug\netcoreapp3.1\AngleSharp.dll
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\bin\Debug\netcoreapp3.1\NUWM_Schedule_Bot.deps.json
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\bin\Debug\netcoreapp3.1\NUWM_Schedule_Bot.runtimeconfig.json
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\bin\Debug\netcoreapp3.1\NUWM_Schedule_Bot.runtimeconfig.dev.json
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\bin\Debug\netcoreapp3.1\NUWM_Schedule_Bot.dll
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\bin\Debug\netcoreapp3.1\NUWM_Schedule_Bot.pdb
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\obj\Debug\netcoreapp3.1\NUWM_Schedule_Bot.dll
+F:\Study\vs\TelegramBots\NUWM_Schedule_Bot\obj\Debug\netcoreapp3.1\NUWM_Schedule_Bot.pdb

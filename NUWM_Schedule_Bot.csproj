@@ -1,0 +1,59 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Platforms>AnyCPU;x64</Platforms>
+    <Authors>Ivan Kosmin</Authors>
+    <Product>NUWM Schedule Bot</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\faculty4.txt" />
+    <None Remove="Resources\sorted_faculty1019.txt" />
+    <None Remove="Resources\sorted_faculty1022.txt" />
+    <None Remove="Resources\sorted_faculty1023.txt" />
+    <None Remove="Resources\sorted_faculty1024.txt" />
+    <None Remove="Resources\sorted_faculty1060.txt" />
+    <None Remove="Resources\sorted_faculty1064.txt" />
+    <None Remove="Resources\sorted_faculty1066.txt" />
+    <None Remove="Resources\sorted_faculty1068.txt" />
+    <None Remove="Resources\sorted_faculty1069.txt" />
+    <None Remove="Resources\sorted_faculty1070.txt" />
+    <None Remove="Resources\sorted_faculty11.txt" />
+    <None Remove="Resources\sorted_faculty13.txt" />
+    <None Remove="Resources\sorted_faculty4.txt" />
+    <None Remove="Resources\sorted_faculty7.txt" />
+    <None Remove="Resources\sorted_faculty8.txt" />
+    <None Remove="Resources\sorted_faculty9.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AngleSharp" Version="0.13.0" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.18" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.Text.Encoding" Version="4.3.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.7.0" />
+    <PackageReference Include="Telegram.Bot" Version="15.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+
+</Project>
