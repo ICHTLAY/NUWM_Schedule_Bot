@@ -13,7 +13,7 @@ namespace NUWM_Schedule_Bot
     class Bot
     {
         private static TelegramBotClient client;
-        private static string token = "989638769:AAFPb5SZ2NERFlD6lh1hXq7KPY90KJXm-H8";
+        private static string token = "xxx";
 
         public static void Start()
         {
